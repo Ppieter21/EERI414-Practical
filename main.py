@@ -1,9 +1,9 @@
 import tkinter as tk
 import os
 import time
-import numpy as np
+#import numpy as np
 #from PIL import Image, ImageTk
-from numpy.fft import fftshift
+#from numpy.fft import fftshift
 from matplotlib.image import imread
 import matplotlib.pyplot as plt
 
